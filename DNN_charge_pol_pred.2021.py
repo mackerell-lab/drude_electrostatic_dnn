@@ -5,6 +5,7 @@ Python Script related to:
 Deep Neural Network model to predict the electrostatic parameters in the polarizable classical Drude oscillator force field
 Anmol Kumar, Poonam Pandey, Payal Chatterjee and Alexander D. MacKerell Jr.
 
+Copyright (c) 2022, University of Maryland Baltimore
 """
 
 import numpy as np
